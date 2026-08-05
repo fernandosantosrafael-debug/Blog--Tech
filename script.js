@@ -29,3 +29,4 @@ botoes.forEach(function (botao) {
             curtiu = false;      // Volta o status para false (permitindo curtir
             }
         }
+    });
