@@ -27,3 +27,4 @@ botoes.forEach(function (botao) {
         } else {
             texto.textContent--; // Subtrai -1 do número do contador (desfaz a curtida)
             curtiu = false;      // Volta o status para false (permitindo curtir
+            }
